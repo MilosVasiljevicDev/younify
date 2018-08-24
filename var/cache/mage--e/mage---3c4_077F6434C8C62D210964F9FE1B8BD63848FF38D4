@@ -1,0 +1,73 @@
+<div class="footer-container">
+    <div class="footer">
+        <div class="footer-top">
+
+           <div class="container">
+        	<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/newsletter.png"><span class="subscribe">Subscribe to our newsletter</span>
+
+       <span class="social-icons">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/facebook.png">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/twitter.png">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/instagram.png">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/youtube.png">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/pinterest.png">
+       <img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/google plus.png">
+      </span>
+           </div>
+        </div>
+
+
+        <div class="footer-links">
+        	<div class="container">
+        		<div class="links-section">
+        			<h3>Company</h3>
+        			<a href="#">About Us</a>
+        			<a href="#">Careers</a>
+        			<a href="#">Press Releases</a>
+        			<a href="#">Investiors</a>
+        		</div><div class="links-section">
+        			<h3>Customer Service</h3>
+        			<a href="#">FAQ</a>
+        			<a href="#">Orders & Returns</a>
+        			<a href="#">Shipping Rates & Pilicies</a>
+        			<a href="#">International Shipping</a>
+        			<a href="#">Contact Us</a>
+        		</div><div class="links-section">
+        			<h3>Your Account</h3>
+        			<a href="#">Your Account</a>
+        			<a href="#">Your Orders</a>
+        			<a href="#">Your Wishlist</a>
+        			<a href="#">Payment Methods</a>
+        			<a href="#">Newsletter</a>
+        		</div><div class="links-section">
+        			<h3>Contact Us</h3>
+        			<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/address.png"><a href="#">Kantor Nederland <br>Nieuwe Stationstraat 20 <br>6811 KS Arnhem</a><br>
+        			<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/phone.png"><a href="#">+38 (0)26 7009 750</a><br>
+        			<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/email.png"><a href="#">sales@younify.eu</a>
+        			
+        		</div>
+        	</div>
+
+
+
+        </div>
+        <div class="footer-bottom">
+        	<div class="container">
+        	<span>Copyright @ Younify</span>
+
+        	<span class="back-to-top"><a href="#top"><img src="http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/Arrow Up.png">Back To Top</a></span>
+
+        	<span class="payment">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/paypal.png">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/Visa.png">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/Discover.png">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/Amex.png">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/MasterCard.png">
+        		<img src=" http://127.0.0.1/zadatak/magento-mirror-1.9.3.6/media/wysiwyg/Maestro.png">
+
+        	</span>
+        </div>
+
+        </div>
+    </div>
+</div>
